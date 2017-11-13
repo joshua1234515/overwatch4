@@ -1,0 +1,54 @@
+body {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+}
+
+}
+.box{
+	height:100vh;
+	width:50vw;
+}
+.pink{
+	color:pink;
+	height:33.3%;
+	width:25%;
+	
+}
+
+.orange{
+	color:orange;
+	height:33.3%;
+	width:25%;
+	
+}
+.purple{
+	color:purple;
+	height:33.3%;
+	width:25%;
+	
+}
+.green{
+	color:green;
+	height:33.3%;
+	width:25%;
+	
+}
+.red{
+	color:red;
+	height:33.3%;
+	width:25%;
+	
+}
+.black{
+	color:black;
+	height:33.3%;
+	width:25%;
+	
+}
+.box2{
+	height:100vh;
+	width:50vw;
+}
