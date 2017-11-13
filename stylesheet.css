@@ -1,54 +1,64 @@
 body {
-	height: 100vh;
-	width: 100vw;
-	display: flex;
-	flex-wrap: wrap;
-	margin: 0;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-}
-.box{
-	height:100vh;
-	width:50vw;
-}
-.pink{
-	color:pink;
-	height:33.3%;
-	width:25%;
-	
+.container1 {
+  background-color: white;
+  width: 50%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  
 }
 
-.orange{
-	color:orange;
-	height:33.3%;
-	width:25%;
-	
+.container2 {
+  background-color: pink;
+  width: 50%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
 }
-.purple{
-	color:purple;
-	height:33.3%;
-	width:25%;
-	
+
+.box1 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: red;
 }
-.green{
-	color:green;
-	height:33.3%;
-	width:25%;
-	
+
+.box2 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: blue;
 }
-.red{
-	color:red;
-	height:33.3%;
-	width:25%;
-	
+
+.box3 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: yellow;
 }
-.black{
-	color:black;
-	height:33.3%;
-	width:25%;
-	
+
+.box4 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: orange;
 }
-.box2{
-	height:100vh;
-	width:50vw;
+
+.box5 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: green;
+}
+
+.box6 {
+  width: 50%;
+  height: calc(100%/3);
+  background-color: purple;
 }
