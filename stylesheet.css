@@ -20,7 +20,7 @@ body {
 }
 
 .container2 {
-  background-color: pink;
+  background-color: red;
   width: 50%;
   height: 100%;
   padding: 0;
@@ -30,37 +30,52 @@ body {
 .box1 {
   width: 50%;
   height: calc(100%/3);
-  background-color: red;
+  background-image:url("https://res.cloudinary.com/teepublic/image/private/s--nP0vLaX4--/t_Preview/b_rgb:191919,c_limit,f_auto,h_313,q_90,w_313/v1474898279/production/designs/701770_1");
+  content:url("https://pbs.twimg.com/media/C2gRW57WIAEv2m4.png");
+   background-position: center; 
+   background-size:cover;
 }
 
 .box2 {
   width: 50%;
   height: calc(100%/3);
-  background-color: blue;
+ background-image:url("https://res.cloudinary.com/teepublic/image/private/s--HOfTo6fy--/t_Preview/b_rgb:fefefd,c_limit,f_jpg,h_630,q_90,w_630/v1489803792/production/designs/1332294_1.jpg");
+   background-position: center; 
+   background-size:cover;
 }
 
 .box3 {
   width: 50%;
   height: calc(100%/3);
-  background-color: yellow;
+  background-image:url("https://res.cloudinary.com/teepublic/image/private/s--f8M8Cgx0--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1468571135/production/designs/585345_1.jpg");
+  background-position: center; 
+  background-size:cover;\
+  content:url("https://upload.wikimedia.org/wikipedia/en/b/b1/Winston_Overwatch.png");
 }
 
 .box4 {
   width: 50%;
   height: calc(100%/3);
-  background-color: orange;
+ content:url("https://vignette2.wikia.nocookie.net/overwatch/images/1/1e/Reinhardt_render.png/revision/latest?cb=20170724090331");
+   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvTzjbct5V3ju0f5hCocxS022ErguFi3oLvAskw6nWrujcTrVrg");
+   background-position: center; 
+   background-size:cover;
 }
 
 .box5 {
   width: 50%;
   height: calc(100%/3);
-  background-color: green;
+    background-image:url("https://res.cloudinary.com/teepublic/image/private/s--xYeeaUTA--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1494921699/production/designs/1605212_1.jpg");
+	   background-position: center; 
+   background-size:cover;
 }
 
 .box6 {
   width: 50%;
   height: calc(100%/3);
-  background-color: purple;
+     background-image:url("https://res.cloudinary.com/teepublic/image/private/s--nzUioVg0--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1493182926/production/designs/1523397_1.jpg");
+  background-position: center; 
+   background-size:cover;
 }
 @media only screen and (max-width: 899px) {
  
