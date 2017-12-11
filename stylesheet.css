@@ -21,12 +21,12 @@ body {
 }
 
 .container2 {
-  background-color: red;
+  
   width: 50%;
   height: 100%;
   padding: 0;
   margin: 0;
-   background-image:url("https://www.gbposters.com/media/catalog/product/cache/1/image/737x938/17f82f742ffe127f42dca9de82fb58b1/o/v/overwatch-characters-centred-maxi-poster-1.81.jpg");
+   
     background-position: center; 
    background-size:cover;
 }
@@ -34,8 +34,7 @@ body {
 .box1 {
   width: 50%;
   height: calc(100%/3);
-  background-image:url("https://res.cloudinary.com/teepublic/image/private/s--nP0vLaX4--/t_Preview/b_rgb:191919,c_limit,f_auto,h_313,q_90,w_313/v1474898279/production/designs/701770_1");
-  content:url("https://pbs.twimg.com/media/C2gRW57WIAEv2m4.png");
+ 
    background-position: center; 
    background-size:cover;
 }
@@ -43,7 +42,7 @@ body {
 .box2 {
   width: 50%;
   height: calc(100%/3);
- background-image:url("https://res.cloudinary.com/teepublic/image/private/s--HOfTo6fy--/t_Preview/b_rgb:fefefd,c_limit,f_jpg,h_630,q_90,w_630/v1489803792/production/designs/1332294_1.jpg");
+ 
    background-position: center; 
    background-size:cover;
 }
@@ -51,17 +50,16 @@ body {
 .box3 {
   width: 50%;
   height: calc(100%/3);
-  background-image:url("https://res.cloudinary.com/teepublic/image/private/s--f8M8Cgx0--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1468571135/production/designs/585345_1.jpg");
+ 
   background-position: center; 
   background-size:cover;\
-  content:url("https://upload.wikimedia.org/wikipedia/en/b/b1/Winston_Overwatch.png");
+
 }
 
 .box4 {
   width: 50%;
   height: calc(100%/3);
- content:url("https://vignette2.wikia.nocookie.net/overwatch/images/1/1e/Reinhardt_render.png/revision/latest?cb=20170724090331");
-   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvTzjbct5V3ju0f5hCocxS022ErguFi3oLvAskw6nWrujcTrVrg");
+
    background-position: center; 
    background-size:cover;
 }
@@ -81,6 +79,29 @@ body {
   background-position: center; 
    background-size:cover;
 }
+
+.hog {content:url(images/hog.png);}
+.hog2 {content:url(images/hog2.png);}
+
+
+.diva1 {content:url(images/Diva1.jpg);}
+
+.diva2 {content:url(images/Diva2.png);}
+
+.W1{content:url(images/W1.png);}
+.Winston1 {content:url(images/Winston1.jpg);}
+
+.r2{content:url(images/r2.png);}
+.r1 {content:url(images/r1.png);}
+
+.Z2{content:url(images/Z2.png);}
+.Z1 {content:url(images/Z1.jpg);}
+
+.O2{content:url(images/O2.jpg);}
+.O1 {content:url(images/O1.jpg);}
+
+.tanks {content:url(images/ov2.png);}
+
 @media only screen and (max-width: 899px) {
  
  .container1 {
@@ -95,4 +116,3 @@ body {
   }
 
 }
-
