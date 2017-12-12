@@ -80,27 +80,27 @@ body {
    background-size:cover;
 }
 
-.hog {content:url(images/hog.png);}
-.hog2 {content:url(images/hog2.png);}
+.hog {content:url(hog.png);}
+.hog2 {content:url(hog2.png);}
 
 
-.diva1 {content:url(images/Diva1.jpg);}
+.diva1 {content:url(Diva1.jpg);}
 
-.diva2 {content:url(images/Diva2.png);}
+.diva2 {content:url(Diva2.png);}
 
-.W1{content:url(images/W1.png);}
-.Winston1 {content:url(images/Winston1.jpg);}
+.W1{content:url(W1.png);}
+.Winston1 {content:url(Winston1.jpg);}
 
-.r2{content:url(images/r2.png);}
-.r1 {content:url(images/r1.png);}
+.r2{content:url(r2.png);}
+.r1 {content:url(r1.png);}
 
-.Z2{content:url(images/Z2.png);}
-.Z1 {content:url(images/Z1.jpg);}
+.Z2{content:url(Z2.png);}
+.Z1 {content:url(Z1.jpg);}
 
-.O2{content:url(images/O2.jpg);}
-.O1 {content:url(images/O1.jpg);}
+.O2{content:url(O2.jpg);}
+.O1 {content:url(O1.jpg);}
 
-.tanks {content:url(images/ov2.png);}
+.tanks {content:url(ov2.png);}
 
 @media only screen and (max-width: 899px) {
  
