@@ -26,3 +26,6 @@ function showTank(elem){
 	elem.classList.toggle("tanks");
 	elem.classList.toggle("tanks");
 }
+function playOverwatch(e){
+	document.getElementById("crowd-noise").play();
+}
