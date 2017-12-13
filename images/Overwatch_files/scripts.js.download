@@ -1,0 +1,8 @@
+function showHog(elem){
+	elem.classList.toggle("hog2");
+	elem.classList.toggle("hog");
+}
+function showDiva(elem){
+	elem.classList.toggle("diva1");
+	elem.classList.toggle("diva2");
+}
